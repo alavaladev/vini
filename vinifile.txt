@@ -1,2 +1,5 @@
-echo "i love azure"
+
+"i love azure"
 I love Azure
+I love aws
+
