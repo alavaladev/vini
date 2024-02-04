@@ -1,1 +1,1 @@
-echo "i love devops"
+echo "i love aws"
