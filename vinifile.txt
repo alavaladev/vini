@@ -1,1 +1,1 @@
-echo "i love azure"
+I love aws
